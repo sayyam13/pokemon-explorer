@@ -1,5 +1,7 @@
 # pokemon-explorer
 
+Tech Stack Used => Nextjs13, Typescript, Shadcn UI, Tailwindcss. 
+
 Steps to setup this porject in local:
 
 1] npm i => it will install all the required packages of the application.
